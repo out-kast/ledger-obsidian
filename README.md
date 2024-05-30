@@ -1,4 +1,4 @@
-# Ledger for Obsidian
+# Ledger for Obsidian!
 
 Personal finance tracking and planning, from the comfort of Obsidian! All of
 your data is stored in plain text, and interoperable with any tool which
